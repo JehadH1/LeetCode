@@ -1,7 +1,6 @@
 import java.util.Arrays;
 
-public class ave {
-
+public class minSmallLarge {
     public static void main(String[] args) {
         int[] array = { 7, 8, 3, 4, 15, 13, 4, 1 };
         Arrays.sort(array);

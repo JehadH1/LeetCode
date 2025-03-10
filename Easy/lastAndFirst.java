@@ -20,8 +20,8 @@ public class lastAndFirst {
     }
 
     public static void main(String[] args) {
-        int target = 5;
-        int[] nums = { 5, 7, 7, 8, 8, 10 };
+        int target = 7;
+        int[] nums = { 5, 7, 7, 9, 10 };
 
         int[] result = searchRange(nums, target);
         System.out.println("[" + result[0] + ", " + result[1] + "]");
